@@ -16,5 +16,3 @@ Feel free to explore and follow along!
 | SpaceX Landing Prediction | Analyzed factors affecting SpaceX landing success and uncovered insights through data exploration | [View Project]([projects/customer_segmentation/](https://github.com/chuanzhen-tan/data-science-and-machine-learning/tree/main/IBM%20Data%20Science)) |
 
 ---
-
-More to come—stay tuned!
