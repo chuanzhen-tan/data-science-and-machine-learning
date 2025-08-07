@@ -12,7 +12,8 @@ Please feel free to explore and follow along!
 
 | Project | Brief Description | Link |
 |--------|-------------|------|
-| Cardiovascular Disease Prediction | Predicts the likelihood of cardiovascular disease using patient health records | [View]([projects/cardio_disease_prediction/](https://github.com/chuanzhen-tan/data-science-and-machine-learning/tree/main/Cardiovascular%20Disease%20Prediction)) |
+| Cardiovascular Disease Prediction V1 | Predicts the likelihood of cardiovascular disease using patient health records | [View] ()|
+| Cardiovascular Disease Prediction V2 | Predicts the likelihood of cardiovascular disease using patient health records | [View]([projects/cardio_disease_prediction/](https://github.com/chuanzhen-tan/data-science-and-machine-learning/tree/main/Cardiovascular%20Disease%20Prediction)) |
 | SpaceX Landing Prediction | Analyzed factors affecting SpaceX landing success and uncovered insights through data exploration | [View]([projects/customer_segmentation/](https://github.com/chuanzhen-tan/data-science-and-machine-learning/tree/main/IBM%20Data%20Science)) |
 
 ---
