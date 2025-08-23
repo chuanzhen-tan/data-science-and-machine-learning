@@ -11,10 +11,10 @@ Please feel free to explore and follow along!
 ## 📂 Projects & Learnings
 
 |           Project           | Brief Description |   Link   |
-|:---------------------------:|-------------------|:--------:|
+|:---------------------------:|:-------------------:|:--------:|
 | Cardiovascular Disease Prediction V1 | Predicts the likelihood of cardiovascular disease using patient health records | [View](https://github.com/chuanzhen-tan/data-science-and-machine-learning/tree/main/Cardiovascular%20Disease%20Prediction%20V1) |
 | Cardiovascular Disease Prediction V2 | Predicts the likelihood of cardiovascular disease using patient health records | [View](https://github.com/chuanzhen-tan/data-science-and-machine-learning/tree/main/Cardiovascular%20Disease%20Prediction) |
 | SpaceX Landing Prediction | Analyzed factors affecting SpaceX landing success and uncovered insights through data exploration | [View](https://github.com/chuanzhen-tan/data-science-and-machine-learning/tree/main/IBM%20Data%20Science) |
-| Driver Drowsiness Detection and Alert System (Ongoing) | Leveraging machine learning and Raspberry Pi to detect and alert drowsy drivers to improve road safety | [View](https://github.com/chuanzhen-tan/data-science-and-machine-learning/tree/main/Driver%20Drowsiness%20Detection%20and%20Alert%20System) |
+| Driver Drowsiness Detection and Alert System (Ongoing) | Developing a Raspberry Pi–based system powered by machine learning to detect driver drowsiness and provide real-time alerts for safer roads | [View](https://github.com/chuanzhen-tan/data-science-and-machine-learning/tree/main/Driver%20Drowsiness%20Detection%20and%20Alert%20System) |
 
 ---
