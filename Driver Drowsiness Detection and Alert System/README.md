@@ -16,7 +16,10 @@ $$
 
 The coordinates of each landmark point (P1 ... P6) are marked on the eye as shown below:
 
-<img src="Images/Eye%20Aspect%20Ratio%20(EAR).png" width="400">
+<p align="center">
+  <img src="Images/Eye%20Aspect%20Ratio%20(EAR).png" width="400"><br>
+  <em>Figure 1: Eye Aspect Ratio (EAR) landmarks</em>
+</p>
 
 ## Citations
 
