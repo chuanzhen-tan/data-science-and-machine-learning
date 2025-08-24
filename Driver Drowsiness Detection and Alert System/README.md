@@ -14,9 +14,9 @@ $$
 EAR = \frac{\lVert p_2 - p_6 \rVert + \lVert p_3 - p_5 \rVert}{2 \cdot \lVert p_1 - p_4 \rVert}
 $$
 
-The coordinates of each landmark point (P1...P6) are marked on the eye as shown below:
+The coordinates of each landmark point (P1 ... P6) are marked on the eye as shown below:
 
-![Eye Aspect Ratio](Images/Eye%20Aspect%20Ratio%20(EAR).png)
+<img src="Images/Eye%20Aspect%20Ratio%20(EAR).png" width="400">
 
 ## Citations
 
