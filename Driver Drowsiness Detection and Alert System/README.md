@@ -10,9 +10,9 @@ The EAR is a scalar value that quantifies the state of the eye (whether it is op
 
 EAR adopts the following formula: 
 
-\[
+$$
 EAR = \frac{\lVert p_2 - p_6 \rVert + \lVert p_3 - p_5 \rVert}{2 \cdot \lVert p_1 - p_4 \rVert}
-\]
+$$
 
 ## Citations
 
