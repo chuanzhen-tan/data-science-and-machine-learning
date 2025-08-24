@@ -21,8 +21,12 @@ The coordinates of each landmark point (P1 ... P6) are marked on the eye as show
   <em>Figure 1: Eye Aspect Ratio (EAR) landmarks</em>
 </p>
 
+The eye diagram used in this module was adapted from Glaucoma Research Foundation (2022).
+
 ## Citations
 
 Citations are formatted in accordance with the APA 7th edition guidelines.
 
 1. Ahmad, N. I., Abdullah, S. N. H. S., & Nasrudin, M. F. (2019). Real-time driver drowsiness detection system using eye aspect ratio. Jurnal Kejuruteraan, 31(2), 209–214. https://doi.org/10.17576/jkukm-2019-31(2)-04
+
+2. Glaucoma Research Foundation. (2022, April 6). The amazing eye: The mechanics of vision. Glaucoma Research Foundation. https://glaucoma.org/articles/the-amazing-eye-the-mechanics-of-vision
