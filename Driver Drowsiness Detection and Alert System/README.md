@@ -23,6 +23,8 @@ The coordinates of each landmark point (P1 ... P6) are marked on the eye as show
 
 The eye diagram used in this module was adapted from Glaucoma Research Foundation (2022).
 
+Typically, a person who is awake blinks about 10 times a minute. However, when someone is feeling sleepy, this drops to between 4 and 6 blinks per minute. This drop in frequency, along with longer blink duration, serves as a clear sign of tiredness.
+
 ## Citations
 
 Citations are formatted in accordance with the APA 7th edition guidelines.
